@@ -30,9 +30,8 @@ This repository contains various resources and documentation related to IMO Tech
 
 Stay updated with the latest news and announcements from IMO Tech Solutions. Connect with us on:
 
-- [Website](https://www.imotech.sl)
-- [Twitter](https://twitter.com/imo_tech)
-- [LinkedIn](https://www.linkedin.com/company/imo-tech-solutions-sl-ltd)
-- [Instagram](https://www.instagram.com/imotech.sl)
+- [Website](https://www.imo-tech.com)
+- [LinkedIn](https://www.linkedin.com/company/imo-tech-solutions/)
+
 
 Feel free to explore our repository and reach out to us with any questions, feedback, or collaboration opportunities!
